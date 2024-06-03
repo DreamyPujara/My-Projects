@@ -1,1 +1,4 @@
+#### 1. Introduction
+- **Objective**: Prove the hypothesis that curriculum learning improves domain adaptation in neural machine translation (NMT) tasks.
+- **Approach**: Develop two codebases - one with curriculum learning and one without - and compare their performance.
 
