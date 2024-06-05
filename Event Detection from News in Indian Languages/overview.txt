@@ -26,3 +26,13 @@
 6. **Deployment**:
     - Develop an interactive application using Gradio to input news articles and get event classification.
 
+### Conclusion
+- Successfully created a system to detect and classify events from news articles in Indian languages.
+- Achieved an accuracy of 95.2% in classification.
+- Developed an interactive application using Gradio.
+
+### Future Work
+- Expand the system to include more Indian languages.
+- Improve classification accuracy with larger and more diverse datasets.
+- Integrate more robust NER and classification models.
+
