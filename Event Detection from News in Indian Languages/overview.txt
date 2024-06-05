@@ -1,1 +1,28 @@
+#### 1. Introduction
+- **Objective**: Develop a system to detect events from news articles in Indian languages and classify them into natural and man-made events.
+- **Target Languages**: Hindi, Gujarati, Bangla
+- **Goal**: Achieve an accuracy of 95.2% in classification.
+
+#### 2. System Architecture
+1. **Data Collection**:
+    - Collect news articles in Hindi, Gujarati, and Bangla.
+    - Label events in the articles as natural or man-made.
+
+2. **Data Preprocessing**:
+    - Normalize and tokenize text data.
+    - Translate articles to a common language (e.g., English) for uniform processing using a translation model.
+
+3. **Model Training**:
+    - Use transformer-based models (like BERT, RoBERTa) for text classification.
+    - Fine-tune pre-trained models on the labeled dataset.
+
+4. **Event Detection**:
+    - Use Named Entity Recognition (NER) to identify potential events in the articles.
+    - Classify identified events into natural and man-made using the trained classifier.
+
+5. **Evaluation**:
+    - Evaluate the model's accuracy, precision, recall, and F1-score.
+
+6. **Deployment**:
+    - Develop an interactive application using Gradio to input news articles and get event classification.
 
