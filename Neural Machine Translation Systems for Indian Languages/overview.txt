@@ -26,3 +26,15 @@
     - Use the trained NMT models for text translation.
     - Use TTS (Text-to-Speech) for text-to-speech conversion.
     - Integrate these components using Gradio for an interactive interface.
+
+
+ 4. Conclusion
+- Successfully created a multilingual NMT system for English, Hindi, Gujarati, and Bangla.
+- Developed an evaluation platform to measure translation accuracy.
+- Built an interactive speech-to-speech translation application using Gradio.
+
+#### 5. Future Work
+- Expand the translation capabilities to more languages.
+- Improve translation accuracy with larger datasets and more advanced models.
+- Integrate more robust ASR and TTS systems.
+
