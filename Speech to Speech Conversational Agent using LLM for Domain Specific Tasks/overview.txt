@@ -21,3 +21,15 @@
 5. **Deployment**:
     - Develop an interactive application using Gradio for user interaction.
 
+
+### Conclusion
+- Successfully created a speech-to-speech conversational agent for domain-specific tasks.
+- The system converts speech in Indic languages to text, translates it to English, generates a response using a Large Language Model, and converts the response back to speech.
+- An interactive application is developed using Gradio for user interaction.
+
+### Future Work
+- Expand to include more Indic languages.
+- Improve the models and fine-tune them for specific domains.
+- Add more sophisticated error handling and user interface enhancements.
+
+
